@@ -1,0 +1,19 @@
+{
+  "name": "npmchallenge",
+  "version": "1.0.0",
+  "description": "freecodecamp.org challenges for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhope123/npmChallenge.git"
+  },
+  "author": "Nial Hope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhope123/npmChallenge/issues"
+  },
+  "homepage": "https://github.com/nhope123/npmChallenge#readme"
+}
